@@ -22,8 +22,31 @@
 4. Запустити VS Code та відкрити каталог з тестовим проєктом
 5. Перейти у вкладку Extensions (зазвичай, зліва знизу)
 6. Знайти та встановити офіційний плагін для Python від Microsoft
+
+
+![image](https://github.com/user-attachments/assets/8e89639e-2223-4022-b044-45cd76117092)
+
 7. Знайти та встановити офіційний плагін для Jupyter Notebook від Microsoft
+
+![image](https://github.com/user-attachments/assets/3d1a2c22-3b52-4488-ba02-10b61a67fcf7)
+
 8. Відкрити файл lab01/hello_world.ipynb
-9. Змінити ПІБ та номер групи на власні та запустити код
-10. Під час першого запуску коду, VS Cоde запропонує вибрати Python Kernel, виберіть встановлений kernel з пункту 
+
+![image](https://github.com/user-attachments/assets/af785b84-320b-4618-877e-6bc2641235dc)
+
+10. Змінити ПІБ та номер групи на власні та запустити код
+
+```python
+groupName = "Назва групи"
+studentName = "Прізвище Ім'я"
+
+print("Вітаю світ, це " + studentName + " з групи " + groupName)
+```
+
+
+11. Під час першого запуску коду, VS Cоde запропонує вибрати Python Kernel, виберіть встановлений kernel з пункту 
+
+![image](https://github.com/user-attachments/assets/5fc52e7a-d57a-4394-84b5-f4c6c5dd5ea3)
+
+
 11. Результат роботи коду, заскріншотити 
